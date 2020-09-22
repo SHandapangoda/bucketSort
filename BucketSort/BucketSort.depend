@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1584210496 source:f:\bucketsort\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
